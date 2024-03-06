@@ -1,2 +1,1 @@
-# Voxify
-Uplift Crack the Code Workshop
+# UpliftCodeVoxify
